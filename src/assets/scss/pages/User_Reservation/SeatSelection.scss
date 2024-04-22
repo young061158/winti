@@ -1,0 +1,275 @@
+#seatSelectionContent{
+    zoom: 70%;
+}
+
+.container .main {
+    width: 1406px;
+    height: 130px;
+    position: relative;
+}
+
+.container .main .nav-b .Vector1 {
+    width: 370px;
+    height: 103px;
+    left: 346px;
+    top: 12px;
+    position: absolute;
+    background: #DDDDDD;
+}
+
+.container .main .nav-b .Vector4 {
+    width: 371px;
+    height: 103px;
+    left: 9px;
+    top: 12px;
+    position: absolute;
+    background: #7D3EF7;
+}
+
+.container .main .nav-b .Vector2 {
+    width: 370px;
+    height: 103px;
+    left: 683px;
+    top: 12px;
+    position: absolute;
+    background: #DDDDDD;
+}
+
+.container .main .nav-b .Vector3 {
+    width: 371px;
+    height: 103px;
+    left: 1018px;
+    top: 12px;
+    position: absolute;
+    background: #DDDDDD;
+}
+
+.container .main .menu1 {
+    width: 150px;
+    height: 29px;
+    left: 100px;
+    top: 45px;
+    position: absolute;
+    color: white;
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.container .main .menu2 {
+    width: 148px;
+    height: 29px;
+    left: 457px;
+    top: 45px;
+    position: absolute;
+    color: black;
+    font-size: 21px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.container .main .menu3 {
+    width: 186px;
+    height: 29px;
+    left: 775px;
+    top: 45px;
+    position: absolute;
+    color: black;
+    font-size: 21px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.container .main .menu4 {
+    width: 89px;
+    height: 29px;
+    left: 1159px;
+    top: 45px;
+    position: absolute;
+    color: black;
+    font-size: 21px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.content .select-box {
+
+        position: relative;
+        background:white;
+        border-radius: 10px;
+        border: 1px #777777 solid;
+        width: 285px;
+        top: -100px;
+        left: 1100px;
+        height:50px;
+
+}
+
+.container .content .title {
+    color: #3D3A35;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.container .content .area-date {
+    color: #3D3A35;
+    font-size: 18;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+    width: 500;
+    margin-left: 20px;
+}
+
+.container .content2 {
+    width: 766px;
+    height: 732px;
+    position: relative;
+}
+.container2 {
+    position: relative;
+  }
+
+.box {
+    box-sizing: border-box;
+    position: absolute;
+    width: 601px;
+    height: 199px;
+    left: 782px;
+    top: 81px;
+    border: 1px solid #777777;
+  }
+
+  .box .box-content {
+    position: absolute;
+    width: 181px;
+    height: 128px;
+    left: 30px;
+    top: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #3D3A35;
+  }
+
+  .content3 {
+    
+    position: absolute;
+    top: 30px;
+    left: 750px;
+    align-items: center;
+  }
+
+  .content3 .member {
+    position: absolute;
+    width: 250px;
+    height: 29px;
+    left: 34px;
+    top: 0px;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 27px;
+  }
+  /* 선택좌석 */
+.content4 .member2{
+position: absolute;
+width: 89px;
+height: 29px;
+left: 784px;
+top: 338px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 29px;
+
+
+color: #3D3A35;
+
+}
+/* Rectangle 137 */
+.content4 .box2 {
+position: absolute;
+width: 601px;
+height: 201px;
+left: 782px;
+top: 388px;
+
+background: #F5F6F8;
+}
+/* R 석 J열 - 14 */
+.content4 .member3 {
+position: absolute;
+width: 181px;
+height: 128px;
+left: 813px;
+top: 419px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #5604B5;
+}
+/* 총 1석 선택되었습니다 */
+.content4 .member4{
+position: absolute;
+width: 168px;
+height: 22px;
+left: 998px;
+top: 542px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+color: #3D3A35;
+}
+/* Rectangle 139 */
+.content4 .button{
+position: absolute;
+width: 601px;
+height: 93px;
+left: 782px;
+top: 619px;
+background: #7D3EF7;
+border-radius: 10px;
+}
+/* 다음단계 */
+.content4 .button-text{
+position: absolute;
+width: 89px;
+height: 29px;
+left: 1038px;
+top: 651px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+

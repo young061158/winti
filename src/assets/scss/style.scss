@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+//section
+@import  "section/header";
+
+
+// setting
+@import "setting/fonts";
+@import "setting/reset";
+@import "setting/commons";
+
+
+// //Pages
+@import "pages/User_Reservation/ShowDetailPage.scss";
+@import "pages/User_Reservation/SeatSelection.scss";
+@import "pages/User_Reservation/DetailsPage.scss";

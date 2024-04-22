@@ -1,0 +1,521 @@
+
+
+
+
+/* 메인 타이틀 */
+.main-Title{
+position: absolute;
+width: 750px;
+height: 80px;
+left: 476px;
+top: 106px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 35px;
+line-height: 42px;
+
+color: #3D3A35;
+padding-bottom: 10px;
+border-bottom: #777777 3px solid;
+
+}
+
+
+/* 포스터 */
+.poster{
+position: absolute;
+width: 405px;
+height: 600px;
+left: 35px;
+top: 86px;
+
+// background: url(image);
+border-radius: 5px;
+}
+
+ .Information .area{
+    position: absolute;
+    left: 480px;
+    top: 230px;
+color: #888888;
+font-size: 18px; 
+font-family: Inter; 
+ font-weight: 400;
+  word-wrap: break-word;
+ 
+  
+}
+.Information .area-title{
+
+    position: absolute;
+    top: 230px;
+    left: 550px;
+color: #3D3A35;
+ font-size: 18px;
+  font-family: Inter;
+   font-weight: 400;
+    word-wrap: break-word;
+}
+.Information .date{
+
+    position: absolute;
+    width: 750px;
+    height: 70px;
+    top: 300px;
+    left: 480px;
+color: #888888;
+ font-size: 18px;
+  font-family: Inter;
+   font-weight: 400;
+    word-wrap: break-word;
+    padding-bottom: 10px;
+
+    border-bottom: 3px #DDDDDD solid;
+}
+.Information .date-main{
+    position: absolute;
+    top: 300px;
+    left: 550px;
+color: #3D3A35;
+ font-size: 18px; 
+ font-family: Inter;
+  font-weight: 400;
+   word-wrap: break-word;
+}
+
+.view-about .show-time{
+    position: absolute;
+    top: 230px;
+    left: 880px;
+color: #888888;
+ font-size: 18px;
+  font-family: Inter;
+   font-weight: 400;
+    word-wrap: break-word;
+}
+
+.view-about .run-time{
+    position: absolute;
+    top: 230px;
+    left: 1000px;
+color: #3D3A35; 
+font-size: 18px;
+ font-family: Inter; 
+ font-weight: 400;
+  word-wrap: break-word;
+}
+.view-about .view-etc{
+    position: absolute;
+    
+    top: 275px;
+    left: 880px;
+    
+    color: #888888;
+     font-size: 18px;
+      font-family: Inter;
+       font-weight: 400;
+        word-wrap: break-word;
+       
+}
+.view-about .etc{
+    position: absolute;
+    top: 300px;
+    left: 1000px;
+color: #3D3A35;
+ font-size: 18px;
+  font-family: Inter;
+   font-weight: 400;
+    word-wrap: break-word;
+}
+
+.etc-price .class-price{
+    position: absolute;
+    top: 400px;
+    left: 480px;
+  color: #888888;
+   font-size: 18px;
+    font-family: Inter;
+     font-weight: 400;
+      word-wrap: break-word;
+}
+.etc-price .seat-VIP{
+    position: absolute;
+    top: 400px;
+    left: 550px;
+color: #3D3A35;
+ font-size: 18px;
+  font-family: Inter;
+   font-weight: 400;
+    word-wrap: break-word;
+}
+.etc-price .seat-VIP-price{
+    position: absolute;
+    top: 400px;
+    left: 630px;
+color: #3D3A35;
+ font-size: 18px;
+  font-family: Inter;
+   font-weight: 700;
+    word-wrap: break-word;
+}
+.etc-price .seat-name{
+    position: absolute;
+    top: 420px;
+    left: 550px;
+    color: #3D3A35;
+     font-size: 18px;
+      font-family: Inter;
+       font-weight: 400;
+        word-wrap: break-word;
+
+}
+.etc-price .seat-R{
+    position: absolute;
+    top: 447px;
+    left: 630px;
+    color: #3D3A35;
+     font-size: 18px;
+      font-family: Inter;
+       font-weight: 700;
+     word-wrap: break-word;
+}
+.etc-price .seat-name2{
+    position: absolute;
+    top: 470px;
+    left: 550px;
+    color: #3D3A35;
+     font-size: 18px;
+      font-family: Inter;
+       font-weight: 400;
+        word-wrap: break-word;
+}
+.etc-price .seat-S{
+    position: absolute;
+    top: 496px;
+    left: 630px;
+    color: #3D3A35;
+     font-size: 18px;
+      font-family: Inter;
+       font-weight: 700;
+        word-wrap: break-word;
+}
+
+.price-sail .sails{
+    position: absolute;
+    top: 400px;
+    left: 885px;
+color: #888888;
+ font-size: 18px;
+  font-family: Inter;
+   font-weight: 400;
+    word-wrap: break-word;
+}
+
+.price-sail .sails-price{
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+    color: #3D3A35;
+     font-size: 18px;
+      font-family: Inter;
+       font-weight: 400;
+        word-wrap: break-word;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Rectangle 50 */
+.Rectangle50{
+box-sizing: border-box;
+
+position: absolute;
+width: 1190px;
+height: 300px;
+left: 35px;
+top: 716px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px 5px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+
+/* Line 19 */
+.Line19{
+position: absolute;
+width: 300px;
+height: 0px;
+left: 704px;
+top: 148px;
+
+border: 1px solid #DDDDDD;
+transform: rotate(90deg);
+}
+
+/* Line 20 */
+.Line20 {
+position: absolute;
+width: 300px;
+height: 0px;
+left: 230px;
+top: 148px;
+
+border: 1px solid #DDDDDD;
+transform: rotate(90deg);
+}
+
+/* image 3 */
+.Rectangle50 .Calendar{
+position: absolute;
+width: 279px;
+height: 259px;
+left: 28px;
+top: 30px;
+
+// background: url(image.png);
+}
+
+/* 관람일 선택 */
+.Rectangle50 .show-date-select{
+position: absolute;
+width: 100px;
+height: 19px;
+left: 16px;
+top: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #888888;
+}
+
+
+/* 회차 선택 */
+.Rectangle50 .show-session-select{
+position: absolute;
+width: 100px;
+height: 19px;
+left: 430px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #888888;
+}
+
+
+/* 잔여 좌석 */
+.Rectangle50 .show-remaining-seat{
+position: absolute;
+width: 100px;
+height: 19px;
+left: 894px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #888888;
+}
+
+
+/* Rectangle 51 */
+.Rectangle50 .Rectangle51{
+box-sizing: border-box;
+
+position: absolute;
+width: 330px;
+height: 66px;
+left: 452px;
+top: 80px;
+font-weight: bold;
+background: #EFE6FF;
+border: 1px solid #7D3EF7;
+border-radius: 5px;
+
+}
+
+/* 1회 15시 30분 */
+
+/* position: absolute;
+width: 104px;
+height: 19px;
+left: 833px;
+top: 1053px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #5604B5; */
+
+
+
+/* Rectangle 52 */
+.Rectangle50 .Rectangle52{
+box-sizing: border-box;
+
+position: absolute;
+width: 330px;
+height: 66px;
+left: 452px;
+top: 180px;
+
+font-weight: bold;
+background: #FFFFFF;
+border: 1px solid #777777;
+border-radius: 5px;
+}
+
+/* 2회 19시 30분 */
+/* 
+position: absolute;
+width: 107px;
+height: 19px;
+left: 833px;
+top: 1134px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #3D3A35; */
+
+
+
+/* 세입자석 4 일반석 75 */
+.Rectangle50 .seating{
+position: absolute;
+width: 104px;
+height: 63px;
+left: 894px;
+top: 70px;
+padding-bottom: 10px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #3D3A35;
+}
+
+.seating2 {
+
+position: absolute;
+width: 280px;
+height: 50px;
+left: 894px;
+top: 130px;
+padding-bottom: 10px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+
+color: #3D3A35;
+}
+
+/* Line 21 */
+.Line21{
+ position: absolute;
+width: 330px;
+height: 0px;
+left: 854px;
+top: 191px;
+
+border: 1px solid #777777;
+}
+
+/* Rectangle 53 */
+.Rectangle53{
+position: absolute;
+width: 280px;
+height: 75px;
+left: 884px;
+top: 207px;
+
+background: #7D3EF7;
+border-radius: 10px;
+}
+
+/* 예매하기 */
+
+/* position: absolute;
+width: 59px;
+height: 19px;
+left: 1337px;
+top: 1205px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF; */
+
+
+
+/* Ellipse 15 */
+.Ellipse15{
+position: absolute;
+width: 84px;
+height: 84px;
+left: 1101px;
+top: 602px;
+
+background: #7D3EF7;
+}
+
+/* Ellipse 16 */
+.Ellipse16{
+box-sizing: border-box;
+
+position: absolute;
+width: 84px;
+height: 84px;
+left: 1003px;
+top: 602px;
+
+background: #FFFFFF;
+
+
+
+
+}
+
+
+
+
+
+
+
+

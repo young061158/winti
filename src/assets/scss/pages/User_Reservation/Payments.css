@@ -1,0 +1,399 @@
+
+
+
+
+.container .main .nav-b .Vector13 {
+    width: 370px;
+    height: 103px;
+    left: 346px;
+    top: 12px;
+    position: absolute;
+    background: #DDDDDD;
+}
+
+.container .main .nav-b .Vector14 {
+    width: 371px;
+    height: 103px;
+    left: 9px;
+    top: 12px;
+    position: absolute;
+    background: #7D3EF7;
+}
+
+.container .main .nav-b .Vector15 {
+    width: 370px;
+    height: 103px;
+    left: 683px;
+    top: 12px;
+    position: absolute;
+    background: #DDDDDD;
+}
+
+.container .main .nav-b .Vector16 {
+    width: 371px;
+    height: 103px;
+    left: 1018px;
+    top: 12px;
+    position: absolute;
+    background: #DDDDDD;
+}
+
+
+
+.container .main .menu1 {
+    width: 150px;
+    height: 29px;
+    left: 100px;
+    top: 45px;
+    position: absolute;
+    color: white;
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.container .main .menu2 {
+    width: 148px;
+    height: 29px;
+    left: 457px;
+    top: 45px;
+    position: absolute;
+    color: black;
+    font-size: 21px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.container .main .menu3 {
+    width: 186px;
+    height: 29px;
+    left: 775px;
+    top: 45px;
+    position: absolute;
+    color: black;
+    font-size: 21px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.container .main .menu4 {
+    width: 89px;
+    height: 29px;
+    left: 1159px;
+    top: 45px;
+    position: absolute;
+    color: black;
+    font-size: 21px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+/* 결제방식 */
+.container .main .payment {
+position: absolute;
+width: 111px;
+height: 36px;
+left: 97px;
+top: 297px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+
+color: #3D3A35;
+}
+
+
+/* Rectangle 75 */
+.container .main .Rectangle75 {
+box-sizing: border-box;
+
+position: absolute;
+width: 738px;
+height: 97px;
+left: 97px;
+top: 345px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px 4px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+
+.container .main .radio-button {
+position: absolute;
+width: 38px;
+height: 38px;
+left: 126px;
+top: 371px;
+
+background: #D9D9D9;
+}
+
+
+/* Rectangle 152 */
+.container .main .Rectangle152{
+box-sizing: border-box;
+
+position: absolute;
+width: 738px;
+height: 292px;
+left: 97px;
+top: 484px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px 4px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+
+}
+/* Rectangle 153 */
+.container .main .Rectangle153{
+box-sizing: border-box;
+
+position: absolute;
+width: 196px;
+height: 50px;
+left: 626px;
+top: 571px;
+
+background: #FFFFFF;
+border: 1px solid #777777;
+border-radius: 10px;
+
+}
+/* 기업은행 */
+.container .main .bank-select{
+position: absolute;
+width: 74px;
+height: 24px;
+left: 664px;
+top: 584px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #3D3A35;
+}
+
+
+/* 45,000 2024년 02월 28일 오후 23시 59분 (주)티켓윈도 */
+.container .main .box1-label{
+position: absolute;
+width: 366px;
+height: 285px;
+left: 444px;
+top: 518px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: right;
+
+color: #3D3A35;
+
+}
+/* 무통장입금  */
+.container .main .box3-label {
+position: absolute;
+width: 118px;
+height: 29px;
+left: 179px;
+top: 375px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #3D3A35;
+
+}
+
+/* 입금액 입금은행 입금마감시간 예금주명 */
+.container .main .box1-label2 {
+position: absolute;
+width: 133px;
+height: 285px;
+left: 126px;
+top: 518px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #3D3A35;
+
+}
+
+/* Rectangle 136 */
+.container .main .Rectangle136{
+box-sizing: border-box;
+
+position: absolute;
+width: 601px;
+height: 489px;
+left: 862px;
+top: 481px;
+
+background: #FFFFFF;
+border: 1px solid #777777;
+}
+
+/* 예매정보 */
+.container .main .box2-label{
+position: absolute;
+width: 89px;
+height: 29px;
+left: 864px;
+top: 442px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #3D3A35;
+
+}
+
+/* Line 37 */
+.container .main .Line37 {
+position: absolute;
+width: 560px;
+height: 0px;
+left: 882px;
+top: 618px;
+
+border: 1px solid #DDDDDD;
+
+}
+/* Line 42 */
+.container .main .Line42{
+position: absolute;
+width: 560px;
+height: 0px;
+left: 882px;
+top: 556px;
+
+border: 1px solid #DDDDDD;
+}
+
+/* Line 38 */
+.container .main .Line38 {
+position: absolute;
+width: 560px;
+height: 0px;
+left: 880px;
+top: 685px;
+
+border: 1px solid #DDDDDD;
+}
+
+/* Line 39 */
+.container .main .Line39 {
+position: absolute;
+width: 560px;
+height: 0px;
+left: 882px;
+top: 747px;
+
+border: 1px solid #DDDDDD;
+
+}
+/* Line 40 */
+.container .main .Line40 {
+position: absolute;
+width: 560px;
+height: 0px;
+left: 882px;
+top: 812px;
+
+border: 1px solid #DDDDDD;
+}
+
+/* Line 41 */
+.container .main .Line41 {
+position: absolute;
+width: 560px;
+height: 0px;
+left: 880px;
+top: 875px;
+
+border: 1px solid #DDDDDD;
+}
+
+/* 좌석 일시 티켓금액 배송료 쿠폰할인 포인트사용 총 금액 */
+.container .main .box2-label2 {
+position: absolute;
+width: 111px;
+height: 477px;
+left: 895px;
+top: 508px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #3D3A35;
+}
+/* P열 38번 2024.03.30 (토) 14:00 46,000 0 -1000 0 45,000 */
+.container .main .box2-label3 {
+position: absolute;
+width: 247px;
+height: 413px;
+left: 1195px;
+top: 508px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: right;
+
+color: #5604B5;
+}
+.container .main .button{
+    position: absolute;
+    width: 601px;
+    height: 93px;
+    left: 782px;
+    top: 619px;
+    background: #7D3EF7;
+    border-radius: 10px;
+    }
+    /* 다음단계 */
+    .container .main .button-text{
+    position: absolute;
+    width: 89px;
+    height: 29px;
+    left: 1038px;
+    top: 651px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    color: #FFFFFF;
+    }
